@@ -1,5 +1,6 @@
 package com.mycom.word;
 
+// 기본 단어를 다루는 파일입니다.
 public class Word {
     private int id;
     private int level;

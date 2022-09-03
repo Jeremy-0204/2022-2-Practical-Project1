@@ -1,5 +1,7 @@
 package com.mycom.word;
 
+// 자바로 CRUD를 구현하는 파일입니다.
+
 import java.util.ArrayList;
 import java.util.Scanner;
 

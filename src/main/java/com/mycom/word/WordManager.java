@@ -2,6 +2,7 @@ package com.mycom.word;
 
 import java.util.Scanner;
 
+// 자바로 메뉴 관리하는 파일입니다.
 public class WordManager {
     Scanner s = new Scanner(System.in);
     WordCRUD wordCRUD;
