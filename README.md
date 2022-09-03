@@ -1,6 +1,9 @@
 # 2022-2-Practical-Project1
 2022년 2학기 실전 프로젝트1 수업 프로젝트용 레포입니다.
 
+## 설치한 IDE 및 실행화면
+![IDE](https://github.com/Jeremy-0204/2022-2-Practical-Project1/blob/main/screenshots/IDE.png)
+
 # 개인 프로젝트 1
 ## Week 1
 > ### TODO
