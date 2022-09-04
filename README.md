@@ -13,7 +13,7 @@ Intellij를 설치하였습니다.
 # 개인 프로젝트 1 (Week 1 ~ Week 3)
 ## Week 1
 > ## TODO
-Week 1 - JAVA CRUD 중 Create, Read 함수 구현하기
+- JAVA CRUD 중 Create, Read 함수 구현하기
 
 > ## RESULT
 #### (4) 단어 추가  
