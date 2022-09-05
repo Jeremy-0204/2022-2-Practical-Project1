@@ -88,5 +88,7 @@ public class WordCRUD implements ICRUD{
 
         Word word = list.get(idlist.get(id-1));
         word.setMeaning(meaning);
+
+        System.out.println("단어가 수정되었습니다. ");
     }
 }
