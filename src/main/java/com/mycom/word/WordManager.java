@@ -40,6 +40,14 @@ public class WordManager {
                 wordCRUD.listAll();// list
             }
 
+            else if (menu == 5) {
+                wordCRUD.updateItem();// update
+            }
+
+            else if (menu == 6) {
+                wordCRUD.listAll();// delete
+            }
+
         }
     }
 
