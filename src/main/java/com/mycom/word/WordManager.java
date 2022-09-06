@@ -33,6 +33,7 @@ public class WordManager {
             int menu = selectMenu();
 
             if (menu == 0) break;
+
             if (menu == 4) {
                 wordCRUD.addItem();// create
             }
@@ -47,6 +48,10 @@ public class WordManager {
 
             else if (menu == 6) {
                 wordCRUD.deleteItem();// delete
+            }
+
+            else if (menu == 7) {
+                wordCRUD.saveFile();// delete
             }
 
         }
