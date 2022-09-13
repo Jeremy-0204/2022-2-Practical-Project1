@@ -32,3 +32,9 @@ Intellij를 설치하였습니다.
 > ## TODO
 - JAVA CRUD 중 Update, Delete 함수 구현하기
 - Save & Load 
+
+> ## 이번주 과제
+- CRUD 프로젝트 업로드 끝내기
+- 체크리스트 보고서 작성하기
+- 동영상 보고 순서 정리
+- 혼자서 CRUD 구현 해보기
