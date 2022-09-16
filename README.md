@@ -37,17 +37,17 @@ Intellij를 설치하였습니다.
 #### (2) 수준별 단어보기
 ![Result2](https://github.com/Jeremy-0204/2022-2-Practical-Project1/blob/main/screenshots/2.%20%EC%88%98%EC%A4%80%EB%B3%84%20%EB%8B%A8%EC%96%B4%EB%B3%B4%EA%B8%B0.png)
 #### (3) 단어 검색
-
+![Result3](https://github.com/Jeremy-0204/2022-2-Practical-Project1/blob/main/screenshots/3.%20%EB%8B%A8%EC%96%B4%20%EA%B2%80%EC%83%89.png)
 #### (5) 단어 수정
-
+![Result5](https://github.com/Jeremy-0204/2022-2-Practical-Project1/blob/main/screenshots/5.%20%EB%8B%A8%EC%96%B4%20%EC%88%98%EC%A0%95.png)
 #### (6) 단어 삭제
-
+![Result6](https://github.com/Jeremy-0204/2022-2-Practical-Project1/blob/main/screenshots/6.%20%EB%8B%A8%EC%96%B4%20%EC%82%AD%EC%A0%9C.png)
 #### (7) 파일 저장
-
+![Result7](https://github.com/Jeremy-0204/2022-2-Practical-Project1/blob/main/screenshots/7.%20%ED%8C%8C%EC%9D%BC%EC%A0%80%EC%9E%A5.png)
 #### (2) 수준별 단어보기
-
+![Result7]()
 #### (2) 수준별 단어보기
-
+![Result7]()
 #### (2) 수준별 단어보기
-
+![Result]()
 > ## 소감, 어려움 및 건의사항
