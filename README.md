@@ -44,8 +44,10 @@ Intellij를 설치하였습니다.
 ![Result6](https://github.com/Jeremy-0204/2022-2-Practical-Project1/blob/main/screenshots/6.%20%EB%8B%A8%EC%96%B4%20%EC%82%AD%EC%A0%9C.png)
 #### (7) 파일 저장
 ![Result7](https://github.com/Jeremy-0204/2022-2-Practical-Project1/blob/main/screenshots/7.%20%ED%8C%8C%EC%9D%BC%EC%A0%80%EC%9E%A5.png)
-#### (2) 수준별 단어보기
-![Result7]()
+#### (7) 파일 위치
+![Result7](https://github.com/Jeremy-0204/2022-2-Practical-Project1/blob/main/screenshots/7.%20%ED%8C%8C%EC%9D%BC%EC%A0%80%EC%9E%A5%20%EA%B2%BD%EB%A1%9C.png)
+#### (7) 파일 내용
+![Result7](https://github.com/Jeremy-0204/2022-2-Practical-Project1/blob/main/screenshots/7.%20%ED%8C%8C%EC%9D%BC%EB%82%B4%EC%9A%A9.png)
 #### (2) 수준별 단어보기
 ![Result7]()
 #### (2) 수준별 단어보기
