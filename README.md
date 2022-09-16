@@ -17,11 +17,11 @@ Intellij를 설치하였습니다.
 
 > ## RESULT
 #### (4) 단어 추가  
-![Result1](https://github.com/Jeremy-0204/2022-2-Practical-Project1/blob/main/screenshots/Week1_Result1_(4)%EB%8B%A8%EC%96%B4%EC%B6%94%EA%B0%80.png)  
+![Result1](https://github.com/Jeremy-0204/2022-2-Practical-Project1/blob/main/screenshots/4.%20%EB%8B%A8%EC%96%B4%EC%B6%94%EA%B0%80.png)  
 #### (1) 모든 단어 보기  
-![Result2](https://github.com/Jeremy-0204/2022-2-Practical-Project1/blob/main/screenshots/Week1_Result2_(1)%EB%AA%A8%EB%93%A0%EB%8B%A8%EC%96%B4%EC%A1%B0%ED%9A%8C.png)  
+![Result2](https://github.com/Jeremy-0204/2022-2-Practical-Project1/blob/main/screenshots/1.%20%EB%AA%A8%EB%93%A0%EB%8B%A8%EC%96%B4%EC%A1%B0%ED%9A%8C.png)  
 #### (0) 나가기  
-![Result3](https://github.com/Jeremy-0204/2022-2-Practical-Project1/blob/main/screenshots/Week1_Result3_(0)%EB%82%98%EA%B0%80%EA%B8%B0.png)  
+![Result3](https://github.com/Jeremy-0204/2022-2-Practical-Project1/blob/main/screenshots/0.%20%EB%82%98%EA%B0%80%EA%B8%B0.png)  
 
 > ## 소감, 어려움 및 건의사항
 새로운 IDE를 사용하여 자바로 CRUD를 이용하는 것은 꽤나 흥미로웠다. 그러나 항상 그러했듯 초기 설치하는 과정과 실제로 프로그램을 구동시키는 과정을 익히는데는 시간이 필요했다.  
